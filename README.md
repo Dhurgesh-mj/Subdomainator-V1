@@ -32,4 +32,5 @@ options:
 git clone https://github.com/Dhurgesh-mj/Subdomainator.git
 pip3 install -r requirements.txt ## not needed u can skip this step
 python3 subdomainator.py -h
+////Guys u can also add or give custom wordlist just give the path correctly////
 ```
