@@ -1,0 +1,11 @@
+dev
+stg
+track
+blog
+www
+static
+prod
+stg-new
+blog-old
+stg-lb
+prod-lb
